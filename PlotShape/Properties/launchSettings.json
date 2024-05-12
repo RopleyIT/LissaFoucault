@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "PlotShape": {
+      "commandName": "Project",
+      "commandLineArgs": "-g",
+      "workingDirectory": "C:\\Users\\sdsmi\\OneDrive\\Documents\\Projects\\LissaFoucault\\PlotShape\\bin\\Debug\\net6.0"
+    }
+  }
+}
